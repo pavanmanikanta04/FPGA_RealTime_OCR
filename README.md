@@ -123,9 +123,9 @@ FPGA_RealTime_OCR/
 
 ---
 
-## How to Run on Hardware
+## How to Run on Hardware 
 
 1. Open **Intel Quartus Prime** and load `DE2_115_CAMERA.qpf` (or restore `DE2_115_CAMERA.qar`).
 2. Connect the **TRDB-D5M** camera to the `GPIO` header and a VGA monitor to the `VGA OUT` port on the **Terasic DE2-115** board.
 3. Open **Programmer** and flash `DE2_115_CAMERA.sof` to the Cyclone IV E FPGA via USB-Blaster.
-4. Place handwritten or printed characters inside the blue safe-zone rectangle on the monitor and use `KEY[2]` to freeze predictions or `SW[2]` to toggle Alphabet Priority mode.
+4. Place handwritten or printed characters inside the blue safe-zone rectangle on the monitor and use `KEY[2]` to freeze predictions or `SW[2]` to toggle Alphabet Priority mode. 
