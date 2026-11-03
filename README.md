@@ -86,7 +86,7 @@ This detailed data-flow schematic maps the internal register-transfer level (RTL
 
 ### 3. Character & Word Recognition Output
 <p align="center">
-  <img src="images/test3.jpeg" width="750" alt="Hardware Test 3">
+  <img src="images/test3.jpeg" width="750" alt="Hardware Test 4">
 </p>
 
 ---
